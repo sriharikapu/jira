@@ -12,6 +12,9 @@
 
 ![App screenshot](https://i.ibb.co/W3qVvCn/jira-optimized.jpg)
 
+
+## Node JS v 12.22.12 
+
 ## What is this and who is it for 🤷‍♀️
 
 I do React consulting and this is a showcase product I've built in my spare time. It's a very good example of modern, real-world React codebase.
